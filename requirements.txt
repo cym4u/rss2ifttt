@@ -1,0 +1,7 @@
+urllib3==1.22
+python_telegram_bot==9.0.0
+beautifulsoup4==4.6.0
+python_dateutil==2.6.1
+feedparser==5.2.1
+simplejson==3.13.2
+telegram==0.0.1
